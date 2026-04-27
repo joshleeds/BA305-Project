@@ -5,7 +5,7 @@ Group Project for BA305
 Questions:
 
 1) In our dataset what are the most important factors that influence Fraud vs Non-Fraud?
-   - 1a) Which of these features come from the original dataset and which are derived features from feature engineering?
+
 
 2) Predict whether a transaction is fraudulent or not based on the given features using different methods? Determine which method is best for this dataset (try 2 methods) and compare the results.
    - 2a) For the best method, perform hyperparameter tuning to optimize the model's performance.
