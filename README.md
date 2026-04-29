@@ -12,7 +12,7 @@ Questions:
 
 General Details:
 
-- Dataset: Credit Card Fraud Detection Dataset (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Dataset: Credit Card Fraud Detection Dataset (https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset)
 
 - This is a classification problem where the target variable is whether a transaction is fraudulent (1) or not (0).
 
